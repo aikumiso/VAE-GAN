@@ -1,0 +1,7 @@
+tensorflow>=2.8.0
+keras
+numpy
+scipy
+matplotlib
+pillow
+tensorflow-gan
